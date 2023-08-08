@@ -1,4 +1,4 @@
-# Maze Solver
+# Maze-Solver-using-BFS-DFS-A-star
 
 This project, done as part of the CS-540 Intro to AI course at UW Madison. This repository contains a Python project for solving mazes using various search algorithms. The project provides implementations for solving mazes using A*, Breadth-First Search (BFS), and Depth-First Search (DFS) algorithms.
 
